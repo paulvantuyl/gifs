@@ -17,7 +17,7 @@ $yellow:              #f8f65e;
 $purple:              #d070d1;
 
 @mixin sans {
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 @mixin sans_light {
   @include sans;
@@ -44,7 +44,7 @@ html { background-color: $navy_bg; }
 }
 
 body{
-  @include sans_regular;
+  // @include sans_regular;
   font-size:16px;
   line-height:1.5;
   background-color: $navy_bg_light;
@@ -67,7 +67,7 @@ body{
   }
 
   h1 {
-    @include sans_extrabold;
+    // @include sans_extrabold;
     color: white;
     letter-spacing: -.05em;
     font-size: 2rem;
