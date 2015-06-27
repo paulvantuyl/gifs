@@ -56,6 +56,9 @@
 - path: boom/drop-the-mic.gif
   modified_time: 1435081110
   extname: .gif
+- path: boom/fist-bump-marcy.gif
+  modified_time: 1399330235
+  extname: .gif
 - path: boom/fist-bump.gif
   modified_time: 1435081110
   extname: .gif
@@ -70,6 +73,9 @@
   extname: .gif
 - path: boss/breakfast-club-sunglasses.gif
   modified_time: 1435081111
+  extname: .gif
+- path: boss/guitarwing-duck.gif
+  modified_time: 1397856554
   extname: .gif
 - path: boss/like-a-ross.gif
   modified_time: 1435081111
@@ -164,6 +170,9 @@
 - path: contempt/stevie-mcquinn.gif
   modified_time: 1435081111
   extname: .gif
+- path: crazytown/bang-head-on-wall.gif
+  modified_time: 1392679122
+  extname: .gif
 - path: crying/bugs-crying.gif
   modified_time: 1435081111
   extname: .gif
@@ -203,6 +212,9 @@
 - path: dancing/carlton.gif
   modified_time: 1435081111
   extname: .gif
+- path: dancing/dance-deedee.gif
+  modified_time: 1430346310
+  extname: .gif
 - path: dancing/dancin.gif
   modified_time: 1435081111
   extname: .gif
@@ -211,6 +223,9 @@
   extname: .gif
 - path: dancing/fresh-prince-dance.gif
   modified_time: 1435081111
+  extname: .gif
+- path: dancing/ghost-ride-the-whip01.gif
+  modified_time: 1427213652
   extname: .gif
 - path: dancing/girl-get-down.gif
   modified_time: 1435081111
@@ -335,6 +350,9 @@
 - path: excited/bill-murray-toast.gif
   modified_time: 1435081112
   extname: .gif
+- path: excited/bill-n-ted.gif
+  modified_time: 1422996062
+  extname: .gif
 - path: excited/breakfast-club-jud-fist-pump.gif
   modified_time: 1435081112
   extname: .gif
@@ -407,6 +425,15 @@
 - path: excited/zoolander.gif
   modified_time: 1435081112
   extname: .gif
+- path: facemelt/bodymelt.gif
+  modified_time: 1433285189
+  extname: .gif
+- path: facemelt/homermelt.gif
+  modified_time: 1433285149
+  extname: .gif
+- path: facemelt/indiana-jones.gif
+  modified_time: 1433285104
+  extname: .gif
 - path: facepalm/cosby-facepalm.gif
   modified_time: 1435081112
   extname: .gif
@@ -419,8 +446,14 @@
 - path: facepalm/worf-startrek-facepalm.gif
   modified_time: 1435081112
   extname: .gif
+- path: fail/bikenobike.gif
+  modified_time: 1429306132
+  extname: .gif
 - path: fail/breakdancing.gif
   modified_time: 1435081112
+  extname: .gif
+- path: fail/butterdance.gif
+  modified_time: 1429321636
   extname: .gif
 - path: fail/cat-fail.gif
   modified_time: 1435081112
@@ -439,6 +472,9 @@
   extname: .gif
 - path: fail/girls-swing.gif
   modified_time: 1435081113
+  extname: .gif
+- path: fail/hat-fail.gif
+  modified_time: 1398114138
   extname: .gif
 - path: fail/ice-bucket-challenge.gif
   modified_time: 1435081113
@@ -466,6 +502,9 @@
   extname: .gif
 - path: fail/wheelbarrel-dump.gif
   modified_time: 1435081113
+  extname: .gif
+- path: fish/notallfish.gif
+  modified_time: 1398994247
   extname: .gif
 - path: fu/boba-fett.gif
   modified_time: 1435081113
