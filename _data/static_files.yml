@@ -503,6 +503,9 @@
 - path: fail/wheelbarrel-dump.gif
   modified_time: 1435081113
   extname: .gif
+- path: fail/works-good.gif
+  modified_time: 1398701351
+  extname: .gif
 - path: fish/notallfish.gif
   modified_time: 1398994247
   extname: .gif
@@ -985,6 +988,9 @@
   extname: .gif
 - path: thumbs-up/terminator.gif
   modified_time: 1435081115
+  extname: .gif
+- path: thumbs-up/thumbs-up-2.gif
+  modified_time: 1398118520
   extname: .gif
 - path: thumbs-up/thumbs-up-levar-burton.gif
   modified_time: 1435081115
