@@ -12,9 +12,16 @@ $blue_text:           #66adfb;
 $blue_text_lht:       #97afc8;
 $blue_light:          #d2dae3;
 $green:               #00bd9c;
-$red:                 #ff6d6f;
+// $red:                 #ff6d6f;
 $yellow:              #f8f65e;
 $purple:              #d070d1;
+
+$bg_color:      #fafafa;
+$pg_header_bg:  #e3382b;
+$gray:          #bfbfbf;
+$gray-light:    #ededed;
+$red:           #bb1e11;
+$black:         #333333;
 
 @mixin sans {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -35,7 +42,7 @@ $purple:              #d070d1;
 
 // @group main styles --------------------
 
-html { background-color: $navy_bg; }
+html { background-color: $bg_color; }
 
 * {
   -webkit-box-sizing: border-box;
@@ -43,22 +50,21 @@ html { background-color: $navy_bg; }
   box-sizing: border-box;
 }
 
-body{
+body {
   // @include sans_regular;
   font-size:16px;
   line-height:1.5;
-  background-color: $navy_bg_light;
+  background-color: $bg_color;
 }
 
 .page-header {
   width: 300px; height: 100%;
-  background-color: $navy_bg;
+  background-color: $pg_header_bg;
   position: fixed;
   left: 0; top: 0; bottom: 0;
   color: white;
   text-align: center;
   font-size: 14px;
-  color: $blue_text_lht;
 
   @media (max-width: 600px) {
     position: static;
@@ -68,6 +74,7 @@ body{
 
   h1 {
     // @include sans_extrabold;
+    font-weight: 500;
     color: white;
     letter-spacing: -.05em;
     font-size: 2rem;
@@ -104,8 +111,9 @@ body{
   }
 
   a {
-    color: $green;
-    font-weight: bold; }
+    color: white;
+    //font-weight: bold;
+  }
 }
 
 .gif-listing {
@@ -141,8 +149,8 @@ body{
 
     // Style individual category cards
     > li {
-      background-color: $navy_bg;
-      border-radius: 10px;
+      background-color: $gray-light;
+      // border-radius: 10px;
       padding: 6px 10px;
       margin: 0 0 20px 0;
       text-transform: capitalize;
@@ -151,7 +159,7 @@ body{
       -moz-column-break-inside: avoid;
       -webkit-column-break-inside: avoid;
       column-break-inside: avoid;
-      color: $green;
+      color: $black;
 
       // Style the sub-list of gifs
       > ul {
@@ -167,24 +175,35 @@ body{
           overflow: hidden;
           font-size: 16px;
           text-transform: none;
-          background-color: $navy_bg_light;
-          border-radius: 5px;
+          background-color: white;
+          border-radius: 2px;
+          //border: 1px solid $gray;
           padding: 0;
           margin: 0 0 5px 0;
 
+          -webkit-transition-property: background-color;
+                  transition-property: background-color;
+          -webkit-transition-duration: 0.2s;
+                  transition-duration: 0.2s;
+
           // Style individual gif links
           a {
-            color: $blue_text_lht;
+            color: $red;
             text-decoration: none;
             display: block;
             padding: 8px 10px;
+
+            -webkit-transition-property: background-color;
+                    transition-property: background-color;
+            -webkit-transition-duration: 0.2s;
+                    transition-duration: 0.2s;
           }
 
           &:hover {
-            background-color: #3a5066;
+            background-color: $gray;
 
             a {
-              color: $blue_light;
+              color: $black;
             }
           }
         }
