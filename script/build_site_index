@@ -49,7 +49,7 @@ list.ul do |builder|
               File.basename(gif),
               "href"  => gif,
               "title" => gif,
-              "class" => "gif"
+              "class" => "gif mfp-zoom-in"
             )
           end
         end
