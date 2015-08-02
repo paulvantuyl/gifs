@@ -14,9 +14,6 @@
 - path: bboy/bboy-bear.gif
   modified_time: 1435081110
   extname: .gif
-- path: bboy/bboy-jag.gif
-  modified_time: 1435081110
-  extname: .gif
 - path: bboy/camouflage-bboy.gif
   modified_time: 1435081110
   extname: .gif
@@ -506,8 +503,8 @@
 - path: fail/works-good.gif
   modified_time: 1398701351
   extname: .gif
-- path: fish/notallfish.gif
-  modified_time: 1398994247
+- path: fish/for-charlie.gif
+  modified_time: 1438496121
   extname: .gif
 - path: fu/boba-fett.gif
   modified_time: 1435081113
@@ -673,93 +670,6 @@
   extname: .gif
 - path: high-five/will-smith-jazzy-jeff-high-five.gif
   modified_time: 1435081113
-  extname: .gif
-- path: hubbers/1-50-Cent-Laugh-Off-JAG.gif
-  modified_time: 1435081113
-  extname: .gif
-- path: hubbers/bboy-jag.gif
-  modified_time: 1435081113
-  extname: .gif
-- path: hubbers/github-dodgeball-tnm.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-afeld-hearteyes.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-balevine-laughing.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-balevine-metal.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-balevine-newsroom.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jglovier-angry.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jglovier-confused.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jglovier-excited.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jglovier-hearteyes.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jglovier-indifference.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jglovier-kudos.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jglovier-laughing.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jglovier-metal.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jglovier-newsroom.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jglovier-rollingeyes.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jglovier-sad.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jglovier-wink.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jonrohan-confused.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-jonrohan-metal.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-schacon-metal.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/hubmojis-technoweenie-confused.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/jakeboxer-uh-uh-whiteboard.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/jasonsalez-dj.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/joao-magic.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/joel-tim-toast.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/rtomayko-dance.gif
-  modified_time: 1435081114
-  extname: .gif
-- path: hubbers/yes-github-yissssss.gif
-  modified_time: 1435081114
   extname: .gif
 - path: hug/cartoon-kid-hug.gif
   modified_time: 1435081114
@@ -944,6 +854,9 @@
 - path: popcorn/troy-popcorn-stare.gif
   modified_time: 1435081115
   extname: .gif
+- path: run-away/carpe-diem.gif
+  modified_time: 1438496228
+  extname: .gif
 - path: scared/3FlzE.gif
   modified_time: 1435081115
   extname: .gif
@@ -1069,6 +982,9 @@
   extname: .gif
 - path: whatever/miley-whatever.gif
   modified_time: 1435081116
+  extname: .gif
+- path: when-will-it-end/slinky.gif
+  modified_time: 1438496810
   extname: .gif
 - path: why-you/i-see-what-you-did-there.gif
   modified_time: 1435081116
