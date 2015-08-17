@@ -1,4 +1,7 @@
 ---
+- path: adventure-time/unacceptable.gif
+  modified_time: 1439835503
+  extname: ".gif"
 - path: amazed/hepburn-sunglasses-off.gif
   modified_time: 1435081110
   extname: ".gif"
@@ -488,6 +491,9 @@
 - path: fail/monday-crash.gif
   modified_time: 1435081113
   extname: ".gif"
+- path: fail/mortified-punter.gif
+  modified_time: 1438966819
+  extname: ".gif"
 - path: fail/party-wipeout.gif
   modified_time: 1435081113
   extname: ".gif"
@@ -790,6 +796,9 @@
   extname: ".gif"
 - path: napoleon/napoleon.gif
   modified_time: 1435081115
+  extname: ".gif"
+- path: no/cowboy-shaking-head.gif
+  modified_time: 1438966920
   extname: ".gif"
 - path: no/dikembe-mutumbo-nope.gif
   modified_time: 1435081115
