@@ -80,6 +80,9 @@
 - path: boss/like-a-ross.gif
   modified_time: 1435081111
   extname: ".gif"
+- path: bring-it/butt-bam.gif
+  modified_time: 1448063769
+  extname: ".gif"
 - path: bring-it/challenge-accepted.gif
   modified_time: 1435081111
   extname: ".gif"
@@ -92,13 +95,7 @@
 - path: burn/fight-club-burn-it-down.gif
   modified_time: 1435081111
   extname: ".gif"
-- path: burn/hashtag-burn-neil-patrick-harris.gif
-  modified_time: 1435081111
-  extname: ".gif"
 - path: careful/indiana-jones-sand-bag.gif
-  modified_time: 1435081111
-  extname: ".gif"
-- path: cinemagraphs/whiskey-pour.gif
   modified_time: 1435081111
   extname: ".gif"
 - path: clap/applause.gif
@@ -208,6 +205,9 @@
   extname: ".gif"
 - path: dancing/Blues-Brothers.gif
   modified_time: 1435081111
+  extname: ".gif"
+- path: dancing/boygeorge.gif
+  modified_time: 1447718765
   extname: ".gif"
 - path: dancing/calvin-hobbes-dance.gif
   modified_time: 1435081111
@@ -737,9 +737,6 @@
 - path: lolwat/lobster-distraction.gif
   modified_time: 1435081114
   extname: ".gif"
-- path: lolwat/lolwat.gif
-  modified_time: 1435081114
-  extname: ".gif"
 - path: lolwat/lolwut-rappers.gif
   modified_time: 1435081114
   extname: ".gif"
@@ -750,9 +747,6 @@
   modified_time: 1435081114
   extname: ".gif"
 - path: lolwat/silly-face.gif
-  modified_time: 1435081114
-  extname: ".gif"
-- path: lolwat/thats-a-penis-gif.gif
   modified_time: 1435081114
   extname: ".gif"
 - path: lolwat/vevulza-winning.gif
@@ -859,6 +853,9 @@
   extname: ".gif"
 - path: popcorn/troy-popcorn-stare.gif
   modified_time: 1435081115
+  extname: ".gif"
+- path: rappers/flavaflav.gif
+  modified_time: 1449697802
   extname: ".gif"
 - path: run-away/carpe-diem.gif
   modified_time: 1438497054
