@@ -266,6 +266,9 @@
 - path: deal-with-it/deal-with-it.gif
   modified_time: 1435081112
   extname: ".gif"
+- path: deal-with-it/homer-prancersize.gif
+  modified_time: 1458751150
+  extname: ".gif"
 - path: deal-with-it/sophia-sunglasses-on.gif
   modified_time: 1435081112
   extname: ".gif"
@@ -788,6 +791,9 @@
 - path: napoleon/napoleon.gif
   modified_time: 1435081115
   extname: ".gif"
+- path: nerf/nerfwhatnow.gif
+  modified_time: 1456425298
+  extname: ".gif"
 - path: no/cowboy-shaking-head.gif
   modified_time: 1438966920
   extname: ".gif"
@@ -881,6 +887,9 @@
 - path: shut-up/shut-up.gif
   modified_time: 1435081115
   extname: ".gif"
+- path: support/just-do-it.gif
+  modified_time: 1451946803
+  extname: ".gif"
 - path: support/take-my-money.gif
   modified_time: 1435081115
   extname: ".gif"
@@ -918,9 +927,6 @@
   modified_time: 1435081115
   extname: ".gif"
 - path: thumbs-up/thumbs-up.gif
-  modified_time: 1435081115
-  extname: ".gif"
-- path: tongue/tongue-out.gif
   modified_time: 1435081115
   extname: ".gif"
 - path: upset/alen-rickman.gif
