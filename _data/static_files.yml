@@ -845,6 +845,9 @@
 - path: omg/ooooo.gif
   modified_time: 1435081115
   extname: ".gif"
+- path: pandas/not-a-ninja.GIF
+  modified_time: 1459533167
+  extname: ".GIF"
 - path: popcorn/gazelle-popcorn.gif
   modified_time: 1435081115
   extname: ".gif"
