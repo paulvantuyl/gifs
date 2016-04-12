@@ -1,4 +1,13 @@
 ---
+- path: adventure-time/finn-hair-majesty.gif
+  modified_time: 1460482245
+  extname: ".gif"
+- path: adventure-time/finn-noooooo.gif
+  modified_time: 1460482203
+  extname: ".gif"
+- path: adventure-time/jake-amazing.gif
+  modified_time: 1460482130
+  extname: ".gif"
 - path: adventure-time/unacceptable.gif
   modified_time: 1439835503
   extname: ".gif"
@@ -12,15 +21,6 @@
   modified_time: 1435081110
   extname: ".gif"
 - path: badass/split.gif
-  modified_time: 1435081110
-  extname: ".gif"
-- path: bboy/bboy-bear.gif
-  modified_time: 1435081110
-  extname: ".gif"
-- path: bboy/camouflage-bboy.gif
-  modified_time: 1435081110
-  extname: ".gif"
-- path: bboy/shufflin-robot.gif
   modified_time: 1435081110
   extname: ".gif"
 - path: big-lebowski/ashes-toss.gif
@@ -212,6 +212,9 @@
 - path: dancing/calvin-hobbes-dance.gif
   modified_time: 1435081111
   extname: ".gif"
+- path: dancing/camouflage-bboy.gif
+  modified_time: 1435081110
+  extname: ".gif"
 - path: dancing/carlton.gif
   modified_time: 1435081111
   extname: ".gif"
@@ -247,6 +250,9 @@
   extname: ".gif"
 - path: dancing/napoleon-dance.gif
   modified_time: 1435081111
+  extname: ".gif"
+- path: dancing/shufflin-robot.gif
+  modified_time: 1435081110
   extname: ".gif"
 - path: dancing/sprockets-dancing.gif
   modified_time: 1435081111
@@ -505,9 +511,6 @@
   extname: ".gif"
 - path: fail/works-good.gif
   modified_time: 1398701351
-  extname: ".gif"
-- path: fish/for-charlie.gif
-  modified_time: 1438497054
   extname: ".gif"
 - path: fu/boba-fett.gif
   modified_time: 1435081113
@@ -799,6 +802,9 @@
   extname: ".gif"
 - path: no/dikembe-mutumbo-nope.gif
   modified_time: 1435081115
+  extname: ".gif"
+- path: no/fish-slap.gif
+  modified_time: 1438497054
   extname: ".gif"
 - path: no/no-no.gif
   modified_time: 1435081115
