@@ -107,9 +107,6 @@
 - path: clap/clap.gif
   modified_time: 1435081111
   extname: ".gif"
-- path: clap/dance.gif
-  modified_time: 1435081111
-  extname: ".gif"
 - path: clap/picard-slow-clap.gif
   modified_time: 1435081111
   extname: ".gif"
@@ -123,9 +120,6 @@
   modified_time: 1435081111
   extname: ".gif"
 - path: classics/hercules.gif
-  modified_time: 1435081111
-  extname: ".gif"
-- path: classics/im-an-adult.gif
   modified_time: 1435081111
   extname: ".gif"
 - path: classics/whatchutalkingbout-willis.gif
@@ -165,9 +159,6 @@
   modified_time: 1435081111
   extname: ".gif"
 - path: contempt/spader-contempt.gif
-  modified_time: 1435081111
-  extname: ".gif"
-- path: contempt/stevie-mcquinn.gif
   modified_time: 1435081111
   extname: ".gif"
 - path: crazytown/bang-head-on-wall.gif
@@ -339,9 +330,6 @@
   modified_time: 1435081112
   extname: ".gif"
 - path: downton-abbey/violet-shufflin.gif
-  modified_time: 1435081112
-  extname: ".gif"
-- path: eddie-izzard/not-listening.gif
   modified_time: 1435081112
   extname: ".gif"
 - path: excited/42-Snoop-Bounce.gif
@@ -713,9 +701,6 @@
 - path: jurassic-park/jello-jiggle.gif
   modified_time: 1435081114
   extname: ".gif"
-- path: jurassic-park/life-finds-a-way.gif
-  modified_time: 1435081114
-  extname: ".gif"
 - path: lol/harry-lol.gif
   modified_time: 1435081114
   extname: ".gif"
@@ -868,6 +853,9 @@
   extname: ".gif"
 - path: popcorn/troy-popcorn-stare.gif
   modified_time: 1435081115
+  extname: ".gif"
+- path: projects/go-fast.gif
+  modified_time: 1460754040
   extname: ".gif"
 - path: rappers/flavaflav.gif
   modified_time: 1449697802
