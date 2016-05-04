@@ -233,6 +233,9 @@
 - path: dancing/happy-dance-forever.gif
   modified_time: 1435081111
   extname: ".gif"
+- path: dancing/homer-wavin.gif
+  modified_time: 1462396742
+  extname: ".gif"
 - path: dancing/jiggy.gif
   modified_time: 1435081111
   extname: ".gif"
@@ -883,6 +886,9 @@
   extname: ".gif"
 - path: shut-up/shut-up.gif
   modified_time: 1435081115
+  extname: ".gif"
+- path: stressed/homer-anxious.gif
+  modified_time: 1462396818
   extname: ".gif"
 - path: support/just-do-it.gif
   modified_time: 1451946803
