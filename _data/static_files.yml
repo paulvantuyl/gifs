@@ -1,4 +1,7 @@
 ---
+- path: adventure-time/bmo-happy-sock.gif
+  modified_time: 1467153541
+  extname: ".gif"
 - path: adventure-time/finn-hair-majesty.gif
   modified_time: 1460482245
   extname: ".gif"
@@ -865,6 +868,9 @@
   extname: ".gif"
 - path: rappers/flavaflav.gif
   modified_time: 1449697802
+  extname: ".gif"
+- path: robots/robo-dog.gif
+  modified_time: 1466908450
   extname: ".gif"
 - path: run-away/carpe-diem.gif
   modified_time: 1438497054
