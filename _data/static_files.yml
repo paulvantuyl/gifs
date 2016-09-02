@@ -338,27 +338,6 @@
 - path: done/hand-wipe.gif
   modified_time: 1435081112
   extname: ".gif"
-- path: downton-abbey/hughes-carson-shocked.gif
-  modified_time: 1435081112
-  extname: ".gif"
-- path: downton-abbey/mary-eye-roll.gif
-  modified_time: 1435081112
-  extname: ".gif"
-- path: downton-abbey/mary-snarky-look.gif
-  modified_time: 1435081112
-  extname: ".gif"
-- path: downton-abbey/violet-forbids.gif
-  modified_time: 1435081112
-  extname: ".gif"
-- path: downton-abbey/violet-never-wrong.gif
-  modified_time: 1435081112
-  extname: ".gif"
-- path: downton-abbey/violet-shocked.gif
-  modified_time: 1435081112
-  extname: ".gif"
-- path: downton-abbey/violet-shufflin.gif
-  modified_time: 1435081112
-  extname: ".gif"
 - path: excited/42-Snoop-Bounce.gif
   modified_time: 1435081112
   extname: ".gif"
@@ -773,6 +752,9 @@
 - path: lolwat/wtf.gif
   modified_time: 1435081114
   extname: ".gif"
+- path: made-it/baseball-butt.gif
+  modified_time: 1472790664
+  extname: ".gif"
 - path: mind-blown/magic.gif
   modified_time: 1435081114
   extname: ".gif"
@@ -1042,6 +1024,9 @@
   extname: ".gif"
 - path: will-ferrell/san-diego-whales-vigina.gif
   modified_time: 1435081116
+  extname: ".gif"
+- path: wrong/stooges-slap-poke.gif
+  modified_time: 1471366341
   extname: ".gif"
 - path: yes/eh-uh-huh.gif
   modified_time: 1435081116
