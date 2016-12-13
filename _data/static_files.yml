@@ -290,6 +290,9 @@
 - path: deal-with-it/deal-with-it.gif
   modified_time: 1435081112
   extname: ".gif"
+- path: deal-with-it/flippity.gif
+  modified_time: 1481153340
+  extname: ".gif"
 - path: deal-with-it/homer-prancersize.gif
   modified_time: 1458751150
   extname: ".gif"
@@ -575,6 +578,12 @@
 - path: gtfo/whack.gif
   modified_time: 1435081113
   extname: ".gif"
+- path: hacking/hackerman-roll-out.gif
+  modified_time: 1481647483
+  extname: ".gif"
+- path: hacking/hackerman.gif
+  modified_time: 1481647589
+  extname: ".gif"
 - path: hacking/typity-type.gif
   modified_time: 1435081113
   extname: ".gif"
@@ -791,9 +800,6 @@
 - path: nerf/nerfwhatnow.gif
   modified_time: 1456425298
   extname: ".gif"
-- path: no/cowboy-shaking-head.gif
-  modified_time: 1438966920
-  extname: ".gif"
 - path: no/dikembe-mutumbo-nope.gif
   modified_time: 1435081115
   extname: ".gif"
@@ -802,6 +808,9 @@
   extname: ".gif"
 - path: no/no-no.gif
   modified_time: 1435081115
+  extname: ".gif"
+- path: no/no-sloth.gif
+  modified_time: 1474560925
   extname: ".gif"
 - path: no/no_way_Neil_deGrasse_Tyson.gif
   modified_time: 1435081115
@@ -895,6 +904,9 @@
   extname: ".gif"
 - path: shut-up/shut-up.gif
   modified_time: 1435081115
+  extname: ".gif"
+- path: smh/cowboy-shaking-head.gif
+  modified_time: 1438966920
   extname: ".gif"
 - path: stressed/homer-anxious.gif
   modified_time: 1462396818
